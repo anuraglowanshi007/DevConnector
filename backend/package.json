@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of the Deve connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
